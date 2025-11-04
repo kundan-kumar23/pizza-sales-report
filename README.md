@@ -48,3 +48,4 @@ Enhanced sales strategy through clear visibility of category and size-based perf
 Enabled data-backed decision-making for marketing and supply management.
 
 Screenshots
+(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Home-dashboard.png)
