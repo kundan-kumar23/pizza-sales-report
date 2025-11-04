@@ -49,3 +49,4 @@ Enabled data-backed decision-making for marketing and supply management.
 
 Screenshots
 (https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Home-dashboard.png)
+(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Best-worst%20sales%20dashboard.png)
