@@ -48,5 +48,7 @@ Enhanced sales strategy through clear visibility of category and size-based perf
 Enabled data-backed decision-making for marketing and supply management.
 
 Screenshots
-(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Home-dashboard.png)
-(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Best-worst%20sales%20dashboard.png)
+
+Show what the dashboard looks like. 1[Alt text](https://github.com/username/repo/assets/image.png).
+Example: 1[Dashboard Preview].(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Home-dashboard.png)
+Example: 1[Dashboard Preview].(https://github.com/kundan-kumar23/pizza-sales-report/blob/main/Best-worst%20sales%20dashboard.png)
